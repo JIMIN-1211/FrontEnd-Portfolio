@@ -17,10 +17,10 @@ css selelctor, position 개념을 확립하고 이를 실습해 보기 위해 �
   open index.html  # macOS
   start index.html # Windows
   
-## 주요 기능
+# 주요 기능
 - 라오스 국기를 보여준다. 
  
-## 문제 해결 과정
+# 문제 해결 과정
 laos국기의 파란색 div 부분에 position을 absolute로 정의하고 top속성값을 150px을 주었을 때 흰색 원 div의 top속성값이 자동으로 150px이 주어진 상태여서
 처음에는 position값을 바꾸어 봤지만 top값이 바꾸질 않자 top 값을 재정의 해주고, position값을 absolute 로 바꾸어 주니 국기 모양이 완성 되었다.
 
