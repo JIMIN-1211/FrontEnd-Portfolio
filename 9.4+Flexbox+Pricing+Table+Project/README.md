@@ -21,6 +21,7 @@ flexbox 속성을 이용해 제작한 간다한 가격테이블 웹페이지이�
 
 ## 문제 해결 과정
 flexbox 속성에 대해 공부하고 CSS크기 단위에 대해 헷갈렸었는데, 크기를 조정하는 과정에서 viewport를 이용한 사이즈 정의 방법과 flexbox정렬 방법에 대해 공부했다. 
+
 flexbox 속성 헷갈릴 경우  참고 사이트 
 https://appbrewery.github.io/flex-layout/
 
