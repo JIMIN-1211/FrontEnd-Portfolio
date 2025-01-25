@@ -8,12 +8,15 @@ css selelctor, position 개념을 확립하고 이를 실습해 보기 위해 �
 - CSS
 
 ## 설치 및 사용법
-  1.  이 프로젝트를 로컬로 클론하거나 다운로드합니다.
+ 1.  이 프로젝트를 로컬로 클론하거나 다운로드합니다.
 
     ```bash
-    git clone https://github.com/yourusername/css-flag-project.git
-  2. 실행 방법
-    cd css-flag-project
+    git clone https://github.com/JIMIN-1211/FrontEnd-Portfolio.git
+    
+ 2. 실행 방법
+
+    cd FrontEnd-Portfolio/7.3+Flag+Project/7.3 CSS Flag Project/README.md
+
     open index.html  # macOS
     start index.html # Windows
   

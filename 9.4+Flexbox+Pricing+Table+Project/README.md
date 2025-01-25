@@ -10,9 +10,12 @@ flexbox 속성을 이용해 제작한 간다한 가격테이블 웹페이지이�
  1.  이 프로젝트를 로컬로 클론하거나 다운로드합니다.
 
     ```bash
-    git clone https://github.com/yourusername/Web Design Agency Project.git
+    git clone https://github.com/JIMIN-1211/FrontEnd-Portfolio.git
+    
  2. 실행 방법
-    cd css-flag-project
+
+    cd FrontEnd-Portfolio/9.4+Flexbox+Pricing+Table+Project
+
     open index.html  # macOS
     start index.html # Windows
 

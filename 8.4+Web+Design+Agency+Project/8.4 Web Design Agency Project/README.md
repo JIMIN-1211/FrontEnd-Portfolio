@@ -7,15 +7,17 @@
 - CSS
 
 ## 설치 및 사용법
-  1.  이 프로젝트를 로컬로 클론하거나 다운로드합니다.
+ 1.  이 프로젝트를 로컬로 클론하거나 다운로드합니다.
 
     ```bash
-    git clone https://github.com/yourusername/Web Design Agency Project.git
-  2. 실행 방법
-    cd css-flag-project
+    git clone https://github.com/JIMIN-1211/FrontEnd-Portfolio.git
+    
+ 2. 실행 방법
+
+    cd FrontEnd-Portfolio/8.4+Web+Design+Agency+Project/8.4 Web Design Agency Project
+
     open index.html  # macOS
     start index.html # Windows
-
 ## 주요 기능
 - 웹 페이지 너비가 680px이하이면 웹의 레이아웃이 변경된다. 
 - 레이아웃이 변경 됨에 따라 각 요소들의 사이즈, 폰트 정렬 등이 달라진다. 
