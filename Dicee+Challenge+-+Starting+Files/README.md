@@ -15,7 +15,7 @@
     
 2. 실행 방법
 
-    cd FrontEnd-Portfolio/10.3+Mondrian+Project/10.3 Mondrian Project
+    cd FrontEnd-Portfolio/Dicee+Challenge+-+Starting+Files
 
     open index.html  # macOS
     start index.html # Windows
