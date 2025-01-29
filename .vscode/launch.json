@@ -10,7 +10,7 @@
             "request": "launch",
             "name": "Launch Chrome against localhost",
             // "url": "http://localhost:8080",
-            "file": "${workspaceFolder}/Drum+Kit+Starting+Files/Drum Kit Starting Files/index.html"
+            "file": "${workspaceFolder}/Simon+Game+Challenge+Starting+Files/Simon Game Challenge Starting Files/index.html"
         }
     ]
 }
